@@ -1,5 +1,3 @@
-# Neural_translation
-
 # Neural Machine Translation
 
 Welcome to your first programming assignment for this week! 
